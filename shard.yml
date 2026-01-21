@@ -1,0 +1,9 @@
+name: preside
+version: 0.1.0
+
+authors:
+  - Lachlan Dowding <lachlan@permafrost.space>
+
+crystal: '>= 1.19.0'
+
+license: MIT
